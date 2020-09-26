@@ -1,0 +1,4 @@
+pandas==1.0.3
+sklearn==0.22.1
+sentence-transformers==0.3.6
+numpy==1.18.4
